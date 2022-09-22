@@ -1,1 +1,2 @@
 GitHub on koodimajutusplatvorm versioonikontrolliks ja koostööks. Seda kasutavad tarkvara arendajad
+Ma hakkan githubi tulevikus kasutama, et varastada koodi
